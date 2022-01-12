@@ -16,16 +16,19 @@ E-commerce website which is designed to showcase all kinds of arts as well as to
 The Admin Panel is used to Add:
 • Products
 • Admin accounts
+
 The Admin Panel is used to Remove:
 • Products
 • Customer accounts(if needed)
 • Orders(if needed)
 • Admin accounts(if needed)
+
 The Admin Panel is used to Edit:
 • Admin details
 • Customer details
 • Order Payment status
 • Product details
+
 The Admin Panel is used to View:
 • Products
 • Orders
